@@ -1,0 +1,5 @@
+C:\Users\Karl-Martin.Vogel\Documents\ClassLibraryProjects\ShowCase\obj\Debug\net6.0\ShowCase.csproj.AssemblyReference.cache
+C:\Users\Karl-Martin.Vogel\Documents\ClassLibraryProjects\ShowCase\obj\Debug\net6.0\ShowCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karl-Martin.Vogel\Documents\ClassLibraryProjects\ShowCase\obj\Debug\net6.0\ShowCase.AssemblyInfoInputs.cache
+C:\Users\Karl-Martin.Vogel\Documents\ClassLibraryProjects\ShowCase\obj\Debug\net6.0\ShowCase.AssemblyInfo.cs
+C:\Users\Karl-Martin.Vogel\Documents\ClassLibraryProjects\ShowCase\obj\Debug\net6.0\ShowCase.csproj.CoreCompileInputs.cache
