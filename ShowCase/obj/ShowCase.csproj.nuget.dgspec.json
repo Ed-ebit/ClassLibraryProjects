@@ -64,7 +64,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\Karl-Martin.Vogel\\Documents\\ClassLibraryProjects\\TemplateLibrary\\TemplateLibrary.csproj",
-        "projectName": "TemplateLibrary",
+        "projectName": "TestTCLibrary",
         "projectPath": "C:\\Users\\Karl-Martin.Vogel\\Documents\\ClassLibraryProjects\\TemplateLibrary\\TemplateLibrary.csproj",
         "packagesPath": "C:\\Users\\Karl-Martin.Vogel\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Karl-Martin.Vogel\\Documents\\ClassLibraryProjects\\TemplateLibrary\\obj\\",

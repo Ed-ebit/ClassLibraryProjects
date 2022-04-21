@@ -8,13 +8,13 @@
     ".NETCoreApp,Version=v6.0": {
       "ShowCase/1.0.0": {
         "dependencies": {
-          "TemplateLibrary": "1.0.0"
+          "TestTCLibrary": "1.0.0"
         },
         "runtime": {
           "ShowCase.dll": {}
         }
       },
-      "TemplateLibrary/1.0.0": {
+      "TestTCLibrary/1.0.0": {
         "runtime": {
           "TemplateLibrary.dll": {}
         }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "TemplateLibrary/1.0.0": {
+    "TestTCLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

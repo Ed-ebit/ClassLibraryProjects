@@ -2,20 +2,20 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "TemplateLibrary/1.0.0": {
+      "TestTCLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/TemplateLibrary.dll": {}
+          "bin/placeholder/TestTCLibrary.dll": {}
         },
         "runtime": {
-          "bin/placeholder/TemplateLibrary.dll": {}
+          "bin/placeholder/TestTCLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "TemplateLibrary/1.0.0": {
+    "TestTCLibrary/1.0.0": {
       "type": "project",
       "path": "../TemplateLibrary/TemplateLibrary.csproj",
       "msbuildProject": "../TemplateLibrary/TemplateLibrary.csproj"
@@ -23,7 +23,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "TemplateLibrary >= 1.0.0"
+      "TestTCLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
