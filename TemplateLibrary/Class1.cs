@@ -1,4 +1,4 @@
-﻿namespace UtilityLibrarys;
+﻿namespace UtilityLibraries;
 public class TemplateLibrary
 {
     public static void DoSomething() {
